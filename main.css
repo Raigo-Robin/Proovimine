@@ -1,0 +1,66 @@
+body {
+    background-color: #171616;
+}
+
+
+
+.kategooria {
+    color: white;
+    font-size: 11px;
+    font-family: Helvetica;
+    margin-left: 50px;
+    margin-top: 10px;
+
+}
+
+.topnav {
+    overflow: hidden;
+}
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 15px 10px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Helvetica;
+    
+}
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    color: grey;
+}
+  
+
+  /* Hide the link that should open and close the topnav on small screens */
+  .topnav .icon {
+    display: none;
+}
+
+.topnav img {
+    width: 90px;
+    float: left;
+    margin-left: 50px;
+}
+
+.scroll-container{
+  overflow: auto;
+  white-space: nowrap;
+  padding: 5px 70px 5px 20px;
+  background: transparent;
+  height: 100%;
+  border-radius:15px;
+}
+
+.gridscroll{
+  display:inline-block;
+  size: 20px;
+}
+
+.gridscroll img {
+  margin-right:22px;
+}
