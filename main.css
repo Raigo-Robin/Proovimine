@@ -29,6 +29,7 @@ body {
     font-family: Helvetica;
     
 }
+
   
   /* Change the color of links on hover */
   .topnav a:hover {
@@ -58,7 +59,7 @@ body {
 
 .gridscroll{
   display:inline-block;
-  size: 20px;
+  
 }
 
 .gridscroll img {
