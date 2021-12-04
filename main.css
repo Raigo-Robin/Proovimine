@@ -73,7 +73,7 @@ body {
     position: fixed;
     bottom: 0;
     width: 100%;
-  }
+}
   
   /* Style the links inside the navigation bar */
   .navbar2 a {
@@ -96,3 +96,5 @@ body {
   .navbar2 a.active {
     color: white;
   }
+  
+
